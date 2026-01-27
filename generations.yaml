@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lincoln_Nautilus"
+
 generations:
   - name: "First Generation (MKX Refresh)"
     start_year: 2019
